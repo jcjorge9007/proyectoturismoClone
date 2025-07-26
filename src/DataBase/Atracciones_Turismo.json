@@ -3,20 +3,20 @@
     "Atracciones" :[
         {
             "idProvincia": "1",
-            "nombreProvincia": "Guanacaste",
+            "nombreProvincia": "Caribe",
             "atracciones": [
-            { "id": 1, "nombre": "RIU Palace" },
-            { "id": 2, "nombre": "Planet Hollywood" },
-            { "id": 3, "nombre": "Condovac" }
+            { "id": 1, "nombre": "Cahita" },
+            { "id": 2, "nombre": "Puerto Viejo" },
+            { "id": 3, "nombre": "Manzanillo" }
             ]
         },
         {
             "idProvincia": "2",
-            "nombreProvincia": "Puntarenas",
+            "nombreProvincia": "Pacifico",
             "atracciones": [
-            { "id": 1, "nombre": "Hotel Fiesta Resort" },
-            { "id": 2, "nombre": "Hotel Crocs" },
-            { "id": 3, "nombre": "Best Western Jaco Beach" }
+            { "id": 1, "nombre": "Santa Teresa" },
+            { "id": 2, "nombre": "Pavones" },
+            { "id": 3, "nombre": "Roca Bruja" }
             ]
         }
     ]
