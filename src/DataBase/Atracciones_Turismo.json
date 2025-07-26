@@ -5,7 +5,7 @@
             "idProvincia": "1",
             "nombreProvincia": "Caribe",
             "atracciones": [
-            { "id": 1, "nombre": "Cahita" },
+            { "id": 1, "nombre": "Cahuita" },
             { "id": 2, "nombre": "Puerto Viejo" },
             { "id": 3, "nombre": "Manzanillo" }
             ]
